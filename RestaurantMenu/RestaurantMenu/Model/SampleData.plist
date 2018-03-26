@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>waffels</string>
+		<key>image</key>
+		<string>waffelsImage</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>pancakes</string>
+		<key>image</key>
+		<string>pancakesImage</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>apple pancake</string>
+				<key>image</key>
+				<string>applePancakeImage</string>
+				<key>price</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nutella pancake</string>
+				<key>image</key>
+				<string>nutellaPancakeImage</string>
+				<key>price</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>banana pancake</string>
+				<key>image</key>
+				<string>bananaPancakeImage</string>
+				<key>price</key>
+				<real>3.5</real>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
